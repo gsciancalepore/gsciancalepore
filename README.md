@@ -2,66 +2,59 @@
 
 **Software Architect & Backend Developer**
 
-Apasionado por construir sistemas escalables, mantenibles y bien testeados. Actualmente, estoy profundizando en el ecosistema asíncrono de Python y aplicando principios de **Domain-Driven Design (DDD)** y **Clean Architecture** para resolver problemas complejos de negocio.
+Con 6 años de experiencia en **PHP/Laravel**, actualmente haciendo una transición estratégica hacia **Python/FastAPI** y arquitecturas modernas de alto rendimiento.
 
-> 🚀 **Enfoque actual:** Transición tecnológica de PHP/Laravel a Python/FastAPI, enfocándome en arquitectura hexagonal, asincronía y calidad de software (TDD).
+> 🚀 **Enfoque actual:** Clean Architecture, Domain-Driven Design (DDD), sistemas asíncronos y calidad de software (TDD).
 
 ---
 
-## 🛠️ Tech Stack & Herramientas
+## 🛠️ Tech Stack
 
-Mi caja de herramientas combina años de experiencia en backend robusto con nuevas tecnologías de alto rendimiento:
-
-### Lenguajes & Frameworks
+### Actual (En transición)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-
-### Arquitectura & Base de Datos
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-### Prácticas & Metodologías
-*   **Arquitectura:** Hexagonal (Ports & Adapters), Clean Architecture, CQRS.
-*   **Diseño:** Domain-Driven Design (DDD), SOLID.
-*   **Calidad:** Test-Driven Development (TDD), Integración Continua.
+### Previa
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
+
+### Principios & Prácticas
+- **Arquitectura:** Hexagonal (Ports & Adapters), Clean Architecture, CQRS
+- **Diseño:** Domain-Driven Design (DDD), SOLID
+- **Calidad:** Test-Driven Development (TDD), Integración Continua
 
 ---
 
 ## 💡 Proyecto Destacado: NewsBrief MVP
 
-Actualmente estoy desarrollando **NewsBrief**, un sistema SaaS para la generación automatizada de resúmenes de noticias personalizados utilizando IA.
+**SaaS de curación de noticias automatizada con IA**
 
-Este proyecto es mi "laboratorio" para demostrar ingeniería de software a escala:
+Un sistema backend asíncrono diseñado bajo principios estrictos de Clean Architecture y DDD, demostrando que el código está listo para producción.
 
-*   **Arquitectura:** Implementación estricta de **Hexagonal Architecture** para aislar la lógica de dominio de los detalles de implementación (FastAPI, SQLAlchemy, Gemini API).
-*   **Asincronía:** Uso de **Celery + Redis** para desacoplar tareas pesadas (fetching de RSS, procesamiento de IA) de la API REST, garantizando baja latencia.
-*   **Resiliencia:** Patrones de reintento, colas de mensajes persistentes y manejo de errores en servicios externos.
-*   **Testing:** Cobertura alta con tests unitarios aislados y tests de integración con base de datos efímera.
+- **Arquitectura:** Hexagonal Architecture (dominio puro, sin dependencias de frameworks)
+- **Asincronía:** FastAPI async + Celery + Redis para desacoplar procesamiento de IA
+- **Resiliencia:** Reintentos automáticos, colas persistentes, manejo de errores
+- **Testing:** TDD con tests unitarios aislados y de integración
+- **Infraestructura:** Docker Compose completo (API, Worker, Beat, Postgres, Redis) con healthchecks
+- **Migraciones:** Alembic automático con wait-for-db
+- **Calidad:** Validación de env vars, documentación C4, zero hardcodeos
 
-🔗 **[Ver Repositorio de NewsBrief](https://github.com/gsciancalepore/newsbrief-mvp)** | 📄 **[Ver Documentación Arquitectónica](https://github.com/gsciancalepore/newsbrief-mvp/blob/main/docs/ARCHITECTURE.md)**
+🔗 **[Ver Repositorio](https://github.com/gsciancalepore/newsbrief-mvp)** | 📄 **[Docs Arquitectónicas](https://github.com/gsciancalepore/newsbrief-mvp/blob/main/docs/ARCHITECTURE.md)**
 
 ---
 
-## 📈 Aprendizaje Continuo
+## 📈 Evidencia de Calidad
 
-*   🌱 Actualmente explorando: Multi-tenancy con PostgreSQL Row Level Security (RLS).
-*   📖 Leyendo sobre: Patrones avanzados de mensajería y escalabilidad horizontal en microservicios.
-*   🎯 Objetivo: Consolidar mejores prácticas en Python asíncrono y arquitectura de software distribuida.
+✅ Clean Architecture | ✅ DDD | ✅ TDD | ✅ Docker Production-Ready | ✅ Docs C4
 
 ---
 
 ## 📫 Conectemos
 
-Si te interesa discutir sobre arquitectura de software, Python, o simplemente intercambiar ideas sobre desarrollo backend:
-
-*   💼 [LinkedIn](https://linkedin.com/in/gabriel-sciancalepore-890328167)
-*   💻 [GitHub](https://github.com/gsciancalepore)
-*   📧 [Email](sciancaleporegabriel@gmail.com)
-
----
-
-> *"Cualquier tonto puede escribir código que una computadora entienda. Los buenos programadores escriben código que los humanos puedan entender."* — Martin Fowler
+- 💼 [LinkedIn](https://linkedin.com/in/gabriel-sciancalepore-890328167)
+- 💻 [GitHub](https://github.com/gsciancalepore)
+- 📧 [Email](sciancaleporegabriel@gmail.com)
