@@ -55,6 +55,6 @@ Un sistema backend asíncrono diseñado bajo principios estrictos de Clean Archi
 
 ## 📫 Conectemos
 
-- 💼 [LinkedIn](https://linkedin.com/in/gabriel-sciancalepore-890328167)
+- 💼 [LinkedIn](https://linkedin.com/in/gsciancalepore)
 - 💻 [GitHub](https://github.com/gsciancalepore)
 - 📧 [Email](sciancaleporegabriel@gmail.com)
