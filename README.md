@@ -1,60 +1,114 @@
 # Hola, soy Gabriel Sciancalepore 👋
 
-**Software Architect & Backend Developer**
+**Senior Backend Developer | PHP • Laravel • PostgreSQL • Docker**
 
-Con 6 años de experiencia en **PHP/Laravel**, actualmente haciendo una transición estratégica hacia **Python/FastAPI** y arquitecturas modernas de alto rendimiento.
+Soy desarrollador backend con **más de 7 años de experiencia** construyendo aplicaciones web escalables utilizando **PHP, Laravel y PostgreSQL**.
 
-> 🚀 **Enfoque actual:** Clean Architecture, Domain-Driven Design (DDD), sistemas asíncronos y calidad de software (TDD).
+Me apasiona el diseño de software, la arquitectura, la calidad del código y las buenas prácticas de desarrollo. Disfruto construir aplicaciones mantenibles, bien testeadas y preparadas para crecer.
+
+> 🚀 **Enfoque actual:** Laravel 11, Arquitectura Limpia, Domain-Driven Design (DDD), Testing, DevOps y desarrollo asistido por IA.
 
 ---
 
-## 🛠️ Tech Stack
+# 🛠️ Tech Stack
 
-### Actual (En transición)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+### Backend
 
-### Previa
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-02569B?style=for-the-badge)
 
-### Principios & Prácticas
-- **Arquitectura:** Hexagonal (Ports & Adapters), Clean Architecture, CQRS
-- **Diseño:** Domain-Driven Design (DDD), SOLID
-- **Calidad:** Test-Driven Development (TDD), Integración Continua
+### DevOps & Infrastructure
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
+
+### Frontend
+
+![Blade](https://img.shields.io/badge/Blade-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Alpine.js](https://img.shields.io/badge/Alpine.js-8BC0D0?style=for-the-badge&logo=alpinedotjs&logoColor=black)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+### Software Architecture
+
+- Clean Architecture
+- Domain-Driven Design (DDD)
+- SOLID
+- CQRS
+- Design Patterns
+- Test-Driven Development (TDD)
+- CI/CD
+
+### AI & Modern Development
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+
+- AI Agents
+- Retrieval-Augmented Generation (RAG)
+- Model Context Protocol (MCP)
+- AI-assisted Software Development
 
 ---
 
-## 💡 Proyecto Destacado: NewsBrief MVP
+# 💡 Proyecto Destacado
 
-**SaaS de curación de noticias automatizada con IA**
+## mIA PC
 
-Un sistema backend asíncrono diseñado bajo principios estrictos de Clean Architecture y DDD, demostrando que el código está listo para producción.
+Sistema integral para la gestión de un negocio de reparación y venta de computadoras.
 
-- **Arquitectura:** Hexagonal Architecture (dominio puro, sin dependencias de frameworks)
-- **Asincronía:** FastAPI async + Celery + Redis para desacoplar procesamiento de IA
-- **Resiliencia:** Reintentos automáticos, colas persistentes, manejo de errores
-- **Testing:** TDD con tests unitarios aislados y de integración
-- **Infraestructura:** Docker Compose completo (API, Worker, Beat, Postgres, Redis) con healthchecks
-- **Migraciones:** Alembic automático con wait-for-db
-- **Calidad:** Validación de env vars, documentación C4, zero hardcodeos
+El proyecto integra gestión de inventario, ventas, órdenes de reparación y tienda online, aplicando prácticas modernas de desarrollo desde el inicio.
 
-🔗 **[Ver Repositorio](https://github.com/gsciancalepore/newsbrief-mvp)** | 📄 **[Docs Arquitectónicas](https://github.com/gsciancalepore/newsbrief-mvp/blob/main/docs/ARCHITECTURE.md)**
+### Características
+
+- Laravel 11
+- PostgreSQL
+- Docker
+- PHPUnit
+- Roles y permisos (RBAC)
+- Arquitectura por capas (Controllers → Services → Models)
+- Validación mediante Form Requests
+- Integración con Mercado Pago
+- Documentación técnica
+- CI/CD
+
+🔗 **Repositorio:** https://github.com/gsciancalepore/mIA-PC
 
 ---
 
-## 📈 Evidencia de Calidad
+## NewsBrief MVP
 
-✅ Clean Architecture | ✅ DDD | ✅ TDD | ✅ Docker Production-Ready | ✅ Docs C4
+Backend asíncrono para curación automatizada de noticias mediante IA.
+
+- FastAPI
+- PostgreSQL
+- Redis
+- Celery
+- Clean Architecture
+- Docker
+- Documentación C4
+
+🔗 **Repositorio:** https://github.com/gsciancalepore/newsbrief-mvp
 
 ---
 
-## 📫 Conectemos
+# 📜 Certificaciones
 
-- 💼 [LinkedIn](https://linkedin.com/in/gsciancalepore)
-- 💻 [GitHub](https://github.com/gsciancalepore)
-- 📧 [Email](sciancaleporegabriel@gmail.com)
+- IBM DevOps and Software Engineering Professional Certificate
+- IBM RAG and Agentic AI Professional Certificate
+
+---
+
+# 📫 Contacto
+
+💼 LinkedIn: https://linkedin.com/in/gsciancalepore
+
+💻 GitHub: https://github.com/gsciancalepore
+
+📧 Email: sciancaleporegabriel@gmail.com
