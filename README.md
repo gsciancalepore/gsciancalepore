@@ -28,13 +28,6 @@ Me apasiona el diseño de software, la arquitectura, la calidad del código y la
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
 
-### Frontend
-
-![Blade](https://img.shields.io/badge/Blade-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Alpine.js](https://img.shields.io/badge/Alpine.js-8BC0D0?style=for-the-badge&logo=alpinedotjs&logoColor=black)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
 ### Software Architecture
 
 - Clean Architecture
@@ -101,14 +94,12 @@ Backend asíncrono para curación automatizada de noticias mediante IA.
 # 📜 Certificaciones
 
 - IBM DevOps and Software Engineering Professional Certificate
-- IBM RAG and Agentic AI Professional Certificate
+- IBM RAG and Agentic AI Professional Certificate (En curso)
 
 ---
 
-# 📫 Contacto
+## 📫 Contacto
 
-💼 LinkedIn: https://linkedin.com/in/gsciancalepore
-
-💻 GitHub: https://github.com/gsciancalepore
-
-📧 Email: sciancaleporegabriel@gmail.com
+- 💼 [LinkedIn](https://linkedin.com/in/gsciancalepore)
+- 💻 [GitHub](https://github.com/gsciancalepore)
+- 📧 [Email](mailto:sciancaleporegabriel@gmail.com)
