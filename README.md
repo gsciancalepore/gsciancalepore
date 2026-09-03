@@ -1,6 +1,6 @@
 # Hola, soy Gabriel Sciancalepore 👋
 
-**Senior Backend Developer | PHP • Laravel • PostgreSQL • Docker**
+**Senior Backend Developer | PHP • Laravel • PostgreSQL • Docker • AI**
 
 Soy desarrollador backend con **más de 7 años de experiencia** construyendo aplicaciones web escalables utilizando **PHP, Laravel y PostgreSQL**.
 
@@ -50,44 +50,48 @@ Me apasiona el diseño de software, la arquitectura, la calidad del código y la
 
 ---
 
-# 💡 Proyecto Destacado
+# 🚀 Proyecto destacado
 
-## mIA PC
+## Casa de Cerámicas — `revestimientos`
 
-Sistema integral para la gestión de un negocio de reparación y venta de computadoras.
+Plataforma web para una casa de cerámicas, desarrollada con **Laravel y PostgreSQL**, que integra catálogo público, compra online y panel administrativo para la gestión de productos, pedidos y stock.
 
-El proyecto integra gestión de inventario, ventas, órdenes de reparación y tienda online, aplicando prácticas modernas de desarrollo desde el inicio.
+El proyecto está siendo desarrollado utilizando un enfoque **Spec-Driven Development (SDD)**, acompañado de testing, documentación arquitectónica, ADRs y CI.
 
-### Características
+### Principales características
 
-- Laravel 11
-- PostgreSQL
-- Docker
-- PHPUnit
-- Roles y permisos (RBAC)
-- Arquitectura por capas (Controllers → Services → Models)
-- Validación mediante Form Requests
+- Catálogo público de productos
+- Cálculo de **m² → cajas**
+- Gestión de productos y categorías
+- Gestión de pedidos
+- Control de stock por cajas
+- Panel administrativo
+- Autenticación y roles
 - Integración con Mercado Pago
-- Documentación técnica
-- CI/CD
-
-🔗 **Repositorio:** https://github.com/gsciancalepore/mIA-PC
-
----
-
-## NewsBrief MVP
-
-Backend asíncrono para curación automatizada de noticias mediante IA.
-
-- FastAPI
+- Docker + Docker Compose
 - PostgreSQL
 - Redis
-- Celery
-- Clean Architecture
-- Docker
-- Documentación C4
+- Pest
+- PHPStan
+- Laravel Pint
+- GitHub Actions
+- Documentación técnica y ADRs
 
-🔗 **Repositorio:** https://github.com/gsciancalepore/newsbrief-mvp
+### Enfoque de desarrollo
+
+El proyecto prioriza:
+
+- **Domain-Driven Design**
+- **Clean Architecture**
+- **SOLID**
+- **TDD**
+- **Spec-Driven Development**
+- **CI/CD**
+- Desarrollo asistido por agentes de IA
+
+La documentación del proyecto incluye definición de dominio, lenguaje ubicuo, especificaciones funcionales, arquitectura, roadmap y decisiones arquitectónicas.
+
+🔗 **Repositorio:** https://github.com/gsciancalepore/revestimientos
 
 ---
 
